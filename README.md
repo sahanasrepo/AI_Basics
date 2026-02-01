@@ -1,4 +1,7 @@
 # AI Engineering Notes
+
+As a software engineer with 5 years of experience in the automotive industry, specializing in MATLAB/Simulink functional development, Python testing tools, and automation, I have embarked on integrating AI into my skill set. I am following Krish Naik's roadmap for learning Generative AI in 2025 at https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2025, particularly his playlists on NLP and Deep Learning. Additionally, I have gained an intuitive understanding of key concepts from 3Blue1Brown's videos at https://www.youtube.com/@3blue1brown.
+
 > A structured, beginner-to-intermediate reference for IT engineers learning AI/ML/DL.  
 > Built from hand-written course notes, expanded with theory, diagrams, and code examples in **both PyTorch and TensorFlow/Keras**.
 
